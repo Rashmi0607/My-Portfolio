@@ -11,8 +11,6 @@
 🖼️ **Project Details Screenshot**
 <img width="1920" height="911" alt="Img2" src="https://github.com/user-attachments/assets/150da9a3-779b-43b9-b231-ad97c9ef1918" />
 
-
-🖼️ **Additional Screenshots **
 <img width="1920" height="913" alt="Img3" src="https://github.com/user-attachments/assets/7e44bc91-f336-4031-a422-2cb20969981b" />
 
 
