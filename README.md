@@ -5,13 +5,16 @@
 ## 🖼️ Screenshots
 
 🖼️ **Homepage Screenshot**
-<img width="1920" height="911" alt="Img1" src="https://github.com/user-attachments/assets/439e8f42-27be-4d28-8183-3b9f77caac62" />
+<img width="1920" height="911" alt="Img1" src="https://github.com/user-attachments/assets/0b0a5b59-9c34-401e-a05a-5c7e4d4f8904" />
+
 
 🖼️ **Project Details Screenshot**
-<img width="1920" height="911" alt="Img2" src="https://github.com/user-attachments/assets/9b7a474c-ab6e-4763-87c3-ceb5c8b5077b" />
+<img width="1920" height="911" alt="Img2" src="https://github.com/user-attachments/assets/150da9a3-779b-43b9-b231-ad97c9ef1918" />
 
-🖼️ **Additional Screenshots (Optional)**
-<img width="1920" height="913" alt="Img3" src="https://github.com/user-attachments/assets/4b13bb0a-4a52-431a-9453-934a677db9a9" />
+
+🖼️ **Additional Screenshots **
+<img width="1920" height="913" alt="Img3" src="https://github.com/user-attachments/assets/7e44bc91-f336-4031-a422-2cb20969981b" />
+
 
 
 
